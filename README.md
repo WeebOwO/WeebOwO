@@ -16,5 +16,9 @@
  ![battlenet](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
  ![epic](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ### 数据统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halftheworldaway&layout=compact)](https://github.com/halftheworldaway/github-readme-stats)
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=halftheworldaway&show_icons=true&theme=tokyonight)
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=halftheworldaway&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halftheworldaway&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>
+<br />
