@@ -9,23 +9,4 @@
 
 - - -
 
-### 个人技能
- ![os](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
- ![os_1](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
- ![skill_l](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
- ![skill_l](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
- ![md](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
- ![engine](https://img.shields.io/badge/Gameengine-Unreal-9cf?style=flat-square)
- ![engine](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-- - -
-
-### 个人游戏平台
- ![steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
- ![origin](https://img.shields.io/badge/Origin-148EFF?style=flat-square&logo=origin&logoColor=white)
- ![battlenet](https://img.shields.io/badge/Battle.net-000?style=flat-square&logo=battle.net&logoColor=148EFF)
- ![epic](https://img.shields.io/badge/Epic%20Games-313131?style=flat-square&logo=Epic%20Games&logoColor=white)
- 
- - - -
-
-
 
