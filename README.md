@@ -4,10 +4,10 @@
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width=250 title="Do what you like, and do it best!">
 </div>
 
-###  👋欢迎来访  
+###  👋欢迎来访 Welcome!
 我现在是就读于南开大学软件学院的一名研究生，将来希望成为一个游戏引擎或者游戏客户端gameplay的程序员，我非常欢迎志同道合的朋友来进行交流。 
 
-***PS：我是一个重度的游戏玩家和二次元。***
+***PS：我是一个重度的游戏玩家和二次元。 Weebs in!***
 
 
 
