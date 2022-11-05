@@ -1,5 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);谢谢你这么可爱还来看我!&center=true&size=27"> </a> </h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello+world!;%E8%B0%A2%E8%B0%A2%E4%BD%A0%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E8%BF%98%E6%9D%A5%E7%9C%8B%E6%88%91%EF%BC%81)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width=250 title="Do what you like, and do it best!">
 </div>
