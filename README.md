@@ -14,4 +14,9 @@
 ***PS：我是一个重度的游戏玩家和二次元。 Weebs in!***
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
