@@ -11,13 +11,12 @@
   - :fire: 喜欢研究游戏开发的相关技术
   - :triumph: 是一个民科算法竞赛选手，喜欢参加些线上的算法比赛 
 
-***PS：我是一个重度的游戏玩家和二次元。 Weebs in!***
-
+#### :bar_chart: [Coding time in the last week](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
-
 ```text
 Python   1 hr 50 mins    ████████████████████████░   95.50 %
 C++      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
-
 <!--END_SECTION:waka-->
+
+***PS：我是一个重度的游戏玩家和二次元。 Weebs in!***
