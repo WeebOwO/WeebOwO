@@ -10,8 +10,7 @@
   - :spaghetti: 目前是就读于南开大学软件学院的一名研究生
   - :fire: 喜欢研究游戏开发的相关技术
   - :triumph: 是一个民科算法竞赛选手，喜欢参加些线上的算法比赛 
-
-#### :bar_chart: [Coding time in the last week](https://github.com/muety/wakapi)
+  - :bar_chart: 上周的编程时间分布
 <!--START_SECTION:waka-->
 ```text
 Python   1 hr 50 mins    ████████████████████████░   95.50 %
