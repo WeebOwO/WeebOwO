@@ -6,7 +6,7 @@
 <img src="asset/code.gif" width=250 title="Do what you like, and do it best!">
 </div>
 
-###  👋欢迎来访 Welcome!
+###  👋 Welcome!
   - :spaghetti: 目前是就读于南开大学软件学院的一名研究生
   - :fire: 喜欢研究游戏开发的相关技术
   - :triumph: 是一个民科算法竞赛选手，喜欢参加些线上的算法比赛 
