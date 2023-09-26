@@ -7,10 +7,10 @@
 </div>
 
 ###  👋 Welcome!
-  - :spaghetti: 目前就读于南开大学软件学院，并作为游戏引擎开发在完美世界游戏公司进行实习 
-  - :fire: 喜欢研究游戏开发的相关技术，目前专注于引擎开发（主要是实时渲染以及物理模拟）
-  - :triumph: 是一个民科算法竞赛选手，喜欢参加些线上的算法比赛 
-  - :bar_chart: 上周的编程时间分布
+  - :spaghetti: I am currently studying at the School of Software at Nankai University and interning as a game engine developer at Perfect World Games. 
+  - :fire: I have a keen interest in exploring the technical aspects of game development, and I am currently specializing in engine development, primarily in the areas of real-time rendering and physics simulation.
+  - :triumph: I am an amateur algorithm competition participant who enjoys taking part in online algorithm contests. 
+  - :bar_chart: Here is the time distribution of my programming activities from last week:
 <!--START_SECTION:waka-->
 
 ```txt
