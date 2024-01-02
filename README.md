@@ -7,7 +7,7 @@
 </div>
 
 ###  👋 Welcome!
-  - :spaghetti: I am currently studying at the School of Software at Nankai University and will work in nvidia as ncg in 2024.
+  - :spaghetti: I am currently studying at the School of Software at Nankai University.
   - :fire: I have a keen interest in exploring the technical aspects of game development, and I am currently specializing in engine development, primarily in the areas of real-time rendering and physics simulation.
   - :triumph: I am an amateur algorithm competition participant who enjoys taking part in online algorithm contests. 
   - 📊 Here is the time distribution of my programming activities from last week:
