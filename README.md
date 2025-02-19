@@ -8,7 +8,7 @@
 
 ###  👋 Welcome!
   - :spaghetti: I currently work as a game engine programmer at a game company in shanghai.
-  - :fire: I have a keen interest in exploring the technical aspects of game development, and I am currently specializing in engine development, primarily in the areas of real-time rendering, physics simulation and animation system.
+  - :fire: I have a keen interest in exploring the technical aspects of game development, and I am currently specializing in engine development, primarily in the areas of real-time rendering, physics simulation and character animation.
   - :triumph: I am an amateur algorithm competition participant who enjoys taking part in online algorithm contests. 
   - 📊 Here is the time distribution of my programming activities from last week:
 <!--START_SECTION:waka-->
